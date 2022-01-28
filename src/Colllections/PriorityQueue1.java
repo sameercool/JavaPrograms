@@ -1,3 +1,5 @@
+package Colllections;
+
 import java.util.PriorityQueue;
 
 public class PriorityQueue1 {

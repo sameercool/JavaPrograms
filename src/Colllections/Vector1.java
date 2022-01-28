@@ -1,3 +1,5 @@
+package Colllections;
+
 import java.util.Vector;
 
 public class Vector1 {

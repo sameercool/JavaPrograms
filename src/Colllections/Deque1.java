@@ -1,3 +1,5 @@
+package Colllections;
+
 import java.util.ArrayDeque;
 
 public class Deque1 {
